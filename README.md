@@ -1,4 +1,9 @@
 hi test test
+
+Projects:
+Digital CV
+Julius Ceaser Encrytption
+
 <!--
 **isabellaardon/isabellaardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
