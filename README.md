@@ -1,6 +1,4 @@
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@isabellaardon/30-nites-of-code)  
-  ![@isabellaardon #30NitesOfCode](https://www.codedex.io/api/petStatus?user=isabellaardon)
+hi test test
 <!--
 **isabellaardon/isabellaardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
